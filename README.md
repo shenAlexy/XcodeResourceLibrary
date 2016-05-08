@@ -4,18 +4,18 @@
 ##Xcode离线下载地址：
 | 名称 | 文件大小(GB) |
 | --- | --- |
-| [Xcode 7.3.1](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1.dmg) | 4.8 |
-| [Xcode 7.3](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg) | 4.8 |
-| [Xcode 7.2](http://adcdownload.apple.com/Developer_Tools/Xcode_7.2/Xcode_7.2.dmg) | 4.4 |
-| [Xcode 7.1](http://adcdownload.apple.com/Developer_Tools/Xcode_7.1/Xcode_7.1.dmg) | 4.2 |
-| [Xcode 7.0](http://adcdownload.apple.com/Developer_Tools/Xcode_7/Xcode_7.dmg) | 3.5 |
-| [Xcode 6.4](http://adcdownload.apple.com/Developer_Tools/Xcode_6.4/Xcode_6.4.dmg) | 2.6 |
-| [Xcode 6.3](http://adcdownload.apple.com/Developer_Tools/Xcode_6.3/Xcode_6.3.dmg) | 2.5 |
-| [Xcode 6.2](http://adcdownload.apple.com/Developer_Tools/Xcode_6.2/Xcode_6.2.dmg) | 2.5 |
-| [Xcode 6.1](http://adcdownload.apple.com/Developer_Tools/xcode_6.1/56841_xcode_6.1.dmg) | 2.5 |
-| [Xcode 6.0.1](http://adcdownload.apple.com/Developer_Tools/xcode_6.0.1/xcode_6.0.1.dmg) | 2.4 |
-| [Xcode 5.1](http://adcdownload.apple.com/Developer_Tools/xcode_5.1/xcode_5.1.dmg) | 2.1 |
-| [Xcode 5.0](http://adcdownload.apple.com/Developer_Tools/xcode_5/xcode_5.dmg) | 1.9 |
+| [Xcode 7.3.1.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1.dmg) | 4.8 |
+| [Xcode 7.3.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg) | 4.8 |
+| [Xcode 7.2.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_7.2/Xcode_7.2.dmg) | 4.4 |
+| [Xcode 7.1.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_7.1/Xcode_7.1.dmg) | 4.2 |
+| [Xcode 7.0.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_7/Xcode_7.dmg) | 3.5 |
+| [Xcode 6.4.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_6.4/Xcode_6.4.dmg) | 2.6 |
+| [Xcode 6.3.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_6.3/Xcode_6.3.dmg) | 2.5 |
+| [Xcode 6.2.dmg](http://adcdownload.apple.com/Developer_Tools/Xcode_6.2/Xcode_6.2.dmg) | 2.5 |
+| [Xcode 6.1.dmg](http://adcdownload.apple.com/Developer_Tools/xcode_6.1/56841_xcode_6.1.dmg) | 2.5 |
+| [Xcode 6.0.1.dmg](http://adcdownload.apple.com/Developer_Tools/xcode_6.0.1/xcode_6.0.1.dmg) | 2.4 |
+| [Xcode 5.1.dmg](http://adcdownload.apple.com/Developer_Tools/xcode_5.1/xcode_5.1.dmg) | 2.1 |
+| [Xcode 5.0.dmg](http://adcdownload.apple.com/Developer_Tools/xcode_5/xcode_5.dmg) | 1.9 |
 
 ##Simulators
 | 名称 | 文件大小(GB) |
@@ -30,9 +30,10 @@
 
 | 名称 | 文件大小(MB) | 更新时间 |
 | --- | --- | --- |
-| [iOS 9.3](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52212-A.dmg) | 872.2 | 2016-03-21 |
-| [Xcode 7.3](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52213-A.dmg) | 264 | ... |
-| [OS X 10.11.4](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52211-A.dmg) | 932 | ... |
-| [watchOS 2.2](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52210-A.dmg) | 364.5 | ... |
-| [tvOS 9.2](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52214-A.dmg) | 307.7 | ... |
+| [iOS 9.3 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52212-A.dmg) | 872.2 | 2016-03-21 |
+| [Xcode 7.3 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52213-A.dmg) | 264 | ... |
+| [OS X 10.11.4 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52211-A.dmg) | 932 | ... |
+| [watchOS 2.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52210-A.dmg) | 364.5 | ... |
+| [tvOS 9.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52214-A.dmg) | 307.7 | ... |
 
+> 下载后挂载了看到 iOSDocset.pkg, 运行解压之后, 找到com.apple.adc.documentation.iOS.docset，复制到~/Library/Developer/Shared/Documentation/DocSets/ 中，以后更新Xcode不必重复下载此文档
