@@ -1,7 +1,7 @@
 # XcodeResourceLibrary
 整理Xcode (.dmg)系列、模拟器Simulators、帮助文档Documentation的官方离线下载地址
 
-![image](https://github.com/shenAlexy/XcodeResourceLibrary/blob/master/Xcode.png)
+ ![image](https://github.com/shenAlexy/XcodeResourceLibrary/blob/master/docset.png) ![image](https://github.com/shenAlexy/XcodeResourceLibrary/blob/master/simator.png)
 
 ##Xcode离线下载地址：
 | 名称 | 文件大小 |
