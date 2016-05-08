@@ -2,8 +2,8 @@
 整理Xcode (.dmg)系列、模拟器Simulators、帮助文档Documentation的官方离线下载地址
 
 
-| 名称 | 文件大小(GB) |     | 名称 | 文件大小(GB) | 
-| --- | --- |     | --- | --- |
+| 名称 | 文件大小(GB) |
+| --- | --- |
 | [Xcode 7.3.1](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3.1/Xcode_7.3.1.dmg) | 4.8 |
 | [Xcode 7.3](http://adcdownload.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg) | 4.8 |
 | [Xcode 7.2](http://adcdownload.apple.com/Developer_Tools/Xcode_7.2/Xcode_7.2.dmg) | 4.4 |
