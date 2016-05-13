@@ -38,13 +38,10 @@
 | [watchOS 2.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52210-A.dmg) | 364.5MB | ... |
 | [tvOS 9.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52214-A.dmg) | 307.7MB | ... |
 
-##Releases of Swift 2.2.1
+> 下载后挂载了看到 iOSDocset.pkg, 运行解压之后, 找到com.apple.adc.documentation.iOS.docset，复制到~/Library/Developer/Shared/Documentation/DocSets/ 中，以后更新Xcode不必重复下载此文档
+
+## Ubuntu Releases of Swift 2.2.1
 | Download | Date |
 | --- | --- |
 | [Ubuntu 15.10](https://swift.org/builds/swift-2.2.1-release/ubuntu1510/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu15.10.tar.gz) [Signature](https://swift.org/builds/swift-2.2.1-release/ubuntu1510/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu15.10.tar.gz.sig) | May 3, 2016 |
 | [Ubuntu 14.04](https://swift.org/builds/swift-2.2.1-release/ubuntu1404/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu14.04.tar.gz) [Signature](https://swift.org/builds/swift-2.2.1-release/ubuntu1404/swift-2.2.1-RELEASE/swift-2.2.1-RELEASE-ubuntu14.04.tar.gz.sig) | May 3, 2016 |
-
-
-
-
-> 下载后挂载了看到 iOSDocset.pkg, 运行解压之后, 找到com.apple.adc.documentation.iOS.docset，复制到~/Library/Developer/Shared/Documentation/DocSets/ 中，以后更新Xcode不必重复下载此文档
