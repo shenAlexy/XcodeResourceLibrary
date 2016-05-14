@@ -38,6 +38,14 @@
 | [watchOS 2.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52210-A.dmg) | 364.5MB | ... |
 | [tvOS 9.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160321/031-52214-A.dmg) | 307.7MB | ... |
 
+| 名称 | 文件大小 | 更新时间 |
+| --- | --- | --- |
+| [iOS 9.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160108/031-45830-A.dmg) | 804.6MB | 2016-01-08 |
+| [Xcode 7.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160108/031-45829-A.dmg) | 233MB | ... |
+| [OS X 10.11.2 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160108/031-45831-A.dmg) | 888.3MB | ... |
+| [watchOS 2.0 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160108/031-45832-A.dmg) | 294MB | ... |
+| [tvOS 9.1 Documentation](https://devimages.apple.com.edgekey.net/docsets/20160108/031-45833-A.dmg) | 290 | ... |
+
 > 下载后挂载了看到 iOSDocset.pkg, 运行解压之后, 找到com.apple.adc.documentation.iOS.docset，复制到~/Library/Developer/Shared/Documentation/DocSets/ 中，以后更新Xcode不必重复下载此文档
 
 ## Ubuntu Releases of Swift 2.2.1
